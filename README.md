@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stump-lifter-1b4.notion.site/Portfolio-095ecb4000474e57804cbe11234a321c" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-333333?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://stump-lifter-1b4.notion.site/Portfolio-095ecb4000474e57804cbe11234a321c" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-444444?style=flat&logo=notion&logoColor=FFFFFF"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYuJoung&show_icons=true&theme=radical)

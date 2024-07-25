@@ -1,4 +1,4 @@
-### YuJoung Lee
+### YuJeong Lee
 👋 Hi, Welcome to My Github Profile!
 
 <!--
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://stump-lifter-1b4.notion.site/Portfolio-095ecb4000474e57804cbe11234a321c" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-333333?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
 

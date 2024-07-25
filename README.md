@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://stump-lifter-1b4.notion.site/Portfolio-095ecb4000474e57804cbe11234a321c" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-444444?style=flat&logo=notion&logoColor=FFFFFF"/></a>
 <a href="nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=overview&from=2024-07-01&to=2024-07-25&url=https%3A%2F%2Fgithub.com%2FLeeYuJoung&count_bg=%2336A3E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYuJoung&show_icons=true&theme=vue-dark)
 
